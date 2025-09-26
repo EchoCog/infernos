@@ -1,3 +1,4 @@
+#include <stdarg.h>
 #pragma	src	"/usr/inferno/libbio"
 
 typedef	struct	Biobuf	Biobuf;
